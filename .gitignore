@@ -5,7 +5,7 @@
 *.war
 *.ear
 
-.idea/*
+.idea
 *.iml
 
 .gradle
@@ -27,5 +27,3 @@ gradle/wrapper/gradle-wrapper.properties
 
 src/main/liberty/config/server.env
 src/main/resources/localdev-config.json
-.idea/vcs.xml
-.idea/workspace.xml
